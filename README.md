@@ -13,12 +13,7 @@ You can click the Preview link to take a look at your changes.
 ![GitHub User's stars](https://img.shields.io/github/stars/DVigas?affiliations=OWNER&style=plastic)
 ![Profile views](https://gpvc.arturio.dev/DVigas)
 
-
-
 ##
-
-<br>
-
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white)&nbsp;
 ![C#](https://img.shields.io/badge/C%23-05122A?style=flat&logo=c-sharp&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -31,21 +26,15 @@ You can click the Preview link to take a look at your changes.
 
 ##
 
-<br>
-
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 ##
 
-<br>
-
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white)&nbsp;
 
 ##
-
-<br>
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
@@ -53,8 +42,6 @@ You can click the Preview link to take a look at your changes.
 ![MySQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-05122A?style=flat&logo=microsoft%20sql%20server&logoColor=white)&nbsp;
 
 ##
-
-<br>
 
 ![Windows](	https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
