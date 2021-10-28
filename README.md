@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ![Profile views](https://gpvc.arturio.dev/DVigas)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=DVigas&color=yellow" alt="Profile views" /> </p>
+<!--- <p align="left"> <img src="https://komarev.com/ghpvc/?username=DVigas&color=yellow" alt="Profile views" /> </p> --->
 
 ##
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white)&nbsp;
