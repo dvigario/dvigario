@@ -29,8 +29,8 @@ You can click the Preview link to take a look at your changes.
 <br><br>
 
 <p align="left">
-<img width="450em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVigas&layout=compact&theme=tokyonight" alt="DViga's most languages"/>
-<img width="450em" src="https://github-readme-stats.vercel.app/api?username=DVigas&show_icons=true&theme=tokyonight" alt="DViga's stats"/>
+<img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVigas&layout=compact&theme=tokyonight" alt="DViga's most languages"/>
+<img width="180em" src="https://github-readme-stats.vercel.app/api?username=DVigas&show_icons=true&theme=tokyonight" alt="DViga's stats"/>
 </p>
 
 <br><br>
