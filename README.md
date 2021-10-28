@@ -9,4 +9,4 @@ DVigas/DVigas is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 
-https://img.shields.io/github/stars/DVigas?affiliations=OWNER&style=plastic
+![GitHub User's stars](https://img.shields.io/github/stars/DVigas?affiliations=OWNER&style=plastic)
