@@ -68,7 +68,7 @@ You can click the Preview link to take a look at your changes.
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVigas&layout=compact&theme=tokyonight" alt="DViga's most languages"/>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DViga&layout=compact&theme=tokyonight)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DVigas&layout=compact)]
 
 
 ##
