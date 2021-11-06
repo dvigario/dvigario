@@ -62,13 +62,22 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 <p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=DVigas&show_icons=true&include_all_commits=true&count_private=true" alt="DViga's stats"/>
+</p>
+<p align="center">
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVigas&langs_count=8" alt="DViga's most languages"/>
+</p>
+
+<!--
+
+<p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api?username=DVigas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="DViga's stats"/>
 </p>
 <p align="center">
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVigas&theme=tokyonight&langs_count=8&layout=compact" alt="DViga's most languages"/>
 </p>
 
-<!--
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DVigas&theme=tokyonight&langs_count=8&layout=compact)
 -->
 
