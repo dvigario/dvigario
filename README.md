@@ -77,7 +77,7 @@ You can click the Preview link to take a look at your changes.
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DVigas&theme=tokyonight&langs_count=8&layout=compact" alt="DViga's most languages"/>
 </p>
 
-lol
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DVigas&theme=tokyonight&langs_count=8&layout=compact)
 -->
 
