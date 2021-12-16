@@ -1,6 +1,6 @@
 # Hi 👋, I'm @DViga
 
-Programming, Technologies, Data Analytics, Data Science, Artificial Intelligence and Machine Learning.
+Data Analytics, Data Science, Artificial Intelligence and Machine Learning, Programming and Technologies.
 
 <!--
 - 👋 Hi, I’m @DVigas
